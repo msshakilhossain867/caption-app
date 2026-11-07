@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group_divider">
+
+        <item android:id="@+id/homeId"
+            android:title="Home"
+            android:icon="@drawable/baseline_home_24"
+            android:checkable="true"
+            />
+
+    </group>
+
+    <group android:id="@+id/group2">
+        <item
+            android:checkable="true"
+            android:id="@+id/privacyIdMenu"
+            android:title="Privacy policy"
+            android:icon="@drawable/baseline_admin_panel_settings_24"
+
+            />
+
+        <item
+            android:checkable="true"
+            android:id="@+id/shareMenu"
+            android:title="Share"
+            android:icon="@drawable/baseline_share_24"
+
+            />
+        <item
+            android:checkable="true"
+            android:id="@+id/moreApp"
+            android:title="MoreApp"
+            android:icon="@drawable/baseline_apps_24"
+
+            />
+        <item
+            android:checkable="true"
+            android:id="@+id/ratingMenu"
+            android:title="Rate Us"
+            android:icon="@drawable/baseline_star_rate_24"
+
+            />
+
+
+    </group>
+
+</menu>

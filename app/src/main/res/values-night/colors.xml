@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#323131</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#252C4B</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#797F95</color>
+    <color name="dashboard_item_1">#2CC2EA</color>
+    <color name="dashboard_item_2">#4DE9C9</color>
+    <color name="dashboard_item_3">#72A4FF</color>
+    <color name="dashboard_item_4">#8872FF</color>
+    <color name="purple_500">#2BC797</color>
+    <color name="icon_color">#FFFFFF</color>
+    <color name="exit_color">#E30303</color>
+    <color name="shadow_color_top">#EFD079</color>
+    <color name="shadow_color_bottom">#F6F4F1</color>
+    <color name="dialog_color_1">#FDD736</color>
+    <color name="editor_text_color">#000000</color>
+    <color name="text_shadow">#171515</color>
+    <color name="dialog_color_2">#3B5796</color>
+    <color name="txt_color">#FFFFFF</color>
+    <color name="water_mark_color">#FFF</color>
+
+</resources>

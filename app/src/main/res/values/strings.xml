@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">রোমান্টিক স্ট্যাটাস ও কাপশন</string>
+    <string name="todo">TODO</string>
+    <string name="drawerLayout_close">Close DrawerLayout</string>
+    <string name="drawerLayout_open">Open DrawerLayout</string>
+</resources>

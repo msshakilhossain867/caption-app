@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAFA">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="@dimen/_24sdp"
+        >
+
+        <ImageView
+            android:layout_width="@dimen/_120sdp"
+            android:layout_height="@dimen/_120sdp"
+            android:src="@drawable/crosss"
+            android:contentDescription="Cross Icon"
+            android:layout_marginBottom="@dimen/_16sdp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ডাউনলোডে ক্লিক করে without waterMark এ ক্লিক করুন তাহলে waterMark চলে যাবে...!"
+            android:textStyle="bold"
+            android:textColor="#333333"
+            android:padding="@dimen/_16sdp"
+            android:gravity="start"
+            android:textSize="@dimen/_18ssp"
+            android:lineSpacingExtra="4dp"
+            android:fontFamily="sans-serif-medium"/>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/_16sdp"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:id="@+id/useNameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_60sdp"
+        android:hint=" Type your name"
+        android:textSize="@dimen/_18ssp"
+
+        />
+
+    <Button
+        android:id="@+id/userNameOk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#C51162"
+        android:text="Ok"
+        android:textSize="@dimen/_25ssp"
+        android:padding="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_10sdp"/>
+
+
+</LinearLayout>
